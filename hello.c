@@ -4,7 +4,7 @@
 
 int main()
 {
-    char test[] = "测试字符串";
+    char test[] = "测试字符串+++++++";
     printf("%d\n", sum(1, 10));
     printf("%d\n", 110252);
 
